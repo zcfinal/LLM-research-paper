@@ -10,3 +10,11 @@ paper list about large language model (LLM)
 ## Efficient Tuning
 
 1.
+
+## LLM with Multimodal 
+
+1. See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning
+
+2. Multimodal Chain-of-Thought Reasoning in Language Models
+
+3. 
