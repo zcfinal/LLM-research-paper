@@ -9,7 +9,11 @@ paper list about large language model (LLM)
 
 ## Efficient Tuning
 
-1.
+1. VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks
+
+2. Multimodal Few-Shot Learning with Frozen Language Models
+
+3. Modular and Parameter-Efficient Multimodal Fusion with Prompting
 
 ## LLM with Multimodal 
 
