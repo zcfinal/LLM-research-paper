@@ -15,6 +15,12 @@ paper list about large language model (LLM)
 
 3. Modular and Parameter-Efficient Multimodal Fusion with Prompting
 
+4. Learning to prompt for vision-language models
+
+5. Conditional prompt learning for vision-language models
+
+6. Maple: Multi-modal prompt learning
+
 ## LLM with Multimodal 
 
 1. See, Think, Confirm: Interactive Prompting Between Vision and Language Models for Knowledge-based Visual Reasoning
