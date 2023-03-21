@@ -27,4 +27,18 @@ paper list about large language model (LLM)
 
 2. Multimodal Chain-of-Thought Reasoning in Language Models
 
-3. 
+3. Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering
+
+4. Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners
+
+5. An empirical study of gpt-3 for few-shot knowledge-based vqa
+
+6. KAT: A Knowledge Augmented Transformer for Vision-and-Language
+
+7. REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering
+
+8. DECAP: DECODING CLIP LATENTS FOR ZERO-SHOT CAPTIONING VIA TEXT-ONLY TRAINING
+
+9. 
+
+
