@@ -3,29 +3,48 @@ paper list about large language model (LLM)
 
 ## LLM Evaluation
 
-1. Is ChatGPT a General-Purpose Natural Language Processing Task Solver?
+1. "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?"
     Arxiv (2023).
     [[paper](https://arxiv.org/abs/2302.06476)] <br />
     Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang
   
-2. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
+2. "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity"
     Arxiv (2023).
     [[paper](https://arxiv.org/abs/2302.04023)] <br />
     Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung
     
 ## Efficient Tuning
 
-1. VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks
+1. "VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks"
+    CVPR (2022).
+    [[paper](https://arxiv.org/abs/2112.06825)] <br />
+    Yi-Lin Sung, Jaemin Cho, Mohit Bansal
 
-2. Multimodal Few-Shot Learning with Frozen Language Models
+2. "Multimodal Few-Shot Learning with Frozen Language Models"
+    NIPS (2021).
+    [[paper](https://proceedings.neurips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf)] <br />
+    Maria Tsimpoukelli, Jacob L Menick, Serkan Cabi, S. M. Ali Eslami, Oriol Vinyals, Felix Hill
+    
 
-3. Modular and Parameter-Efficient Multimodal Fusion with Prompting
+3. "Modular and Parameter-Efficient Multimodal Fusion with Prompting"
+    Findings of ACL (2022).
+    [[paper](https://aclanthology.org/2022.findings-acl.234/)] <br />
+    Sheng Liang, Mengjie Zhao, Hinrich Schuetze
 
-4. Learning to prompt for vision-language models
-
-5. Conditional prompt learning for vision-language models
-
-6. Maple: Multi-modal prompt learning
+4. "Learning to prompt for vision-language models"
+    IJCV (2022).
+    [[paper](https://arxiv.org/pdf/2109.01134.pdf)] <br />
+    Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu 
+    
+5. "Conditional prompt learning for vision-language models"
+    CVPR (2022).
+    [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)] <br />
+    Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu
+    
+6. "Maple: Multi-modal prompt learning"
+    Arxiv (2022).
+    [[paper](https://arxiv.org/pdf/2210.03117.pdf)] <br />
+    Muhammad Uzair Khattak, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Shahbaz Khan
 
 ## LLM with Multimodal 
 
