@@ -4,11 +4,15 @@ paper list about large language model (LLM)
 ## LLM Evaluation
 
 1. Is ChatGPT a General-Purpose Natural Language Processing Task Solver?
+    Arxiv (2023).
     [[paper](https://arxiv.org/abs/2302.06476)] <br />
     Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang
   
 2. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
-
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2302.04023)] <br />
+    Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung
+    
 ## Efficient Tuning
 
 1. VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks
