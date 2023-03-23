@@ -61,7 +61,7 @@ paper list about large language model (LLM)
 3. "Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering"
     CVPR (2023).
     [[paper](https://arxiv.org/abs/2303.01903)]
-    [[code]([https://github.com/ZrrSkywalker/CaFo](https://github.com/MILVLG/prophet))] <br />
+    [[code](https://github.com/MILVLG/prophet)] <br />
     Zhenwei Shao, Zhou Yu, Meng Wang, Jun Yu
     
 4. "Prompt, Generate, then Cache: Cascade of Foundation Models makes Strong Few-shot Learners"
