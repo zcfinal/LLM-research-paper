@@ -3,7 +3,9 @@ paper list about large language model (LLM)
 
 ## LLM Evaluation
 
-1. Is ChatGPT a General-Purpose Natural Language Processing Task Solver? 
+1. Is ChatGPT a General-Purpose Natural Language Processing Task Solver?
+    [[paper](https://arxiv.org/abs/2302.06476)] <br \>
+    Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang
   
 2. A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
 
