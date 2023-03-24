@@ -45,6 +45,11 @@ paper list about large language model (LLM)
     Arxiv (2022).
     [[paper](https://arxiv.org/pdf/2210.03117.pdf)] <br />
     Muhammad Uzair Khattak, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Shahbaz Khan
+    
+7. "AIM: Adapting Image Models for Efficient Video Understanding"
+    ICLR (2023).
+    [[paper](https://arxiv.org/abs/2302.03024)] <br />
+    Taojiannan Yang, Yi Zhu, Yusheng Xie, Aston Zhang, Chen Chen, Mu Li
 
 ## LLM with Multimodal 
 
@@ -90,6 +95,55 @@ paper list about large language model (LLM)
     [[paper](https://arxiv.org/abs/2303.03032)] <br />
     Wei Li, Linchao Zhu, Longyin Wen, Yi Yang
 
-9. 
+9. "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2303.04671)] <br />
+    Chenfei Wu, Shengming Yin, Weizhen Qi, Xiaodong Wang, Zecheng Tang, Nan Duan
+    
+10. "MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2303.11381)] <br />
+    Zhengyuan Yang, Linjie Li, Jianfeng Wang, Kevin Lin, Ehsan Azarnasab, Faisal Ahmed, Zicheng Liu, Ce Liu, Michael Zeng, Lijuan Wang
+
+11. "ViperGPT: Visual Inference via Python Execution for Reasoning"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2303.08128)] <br />
+    Dídac Surís, Sachit Menon, Carl Vondrick
 
 
+## LLM in Data Generation 
+
+1. "Generate labeled training data using Prompt Programming and GPT-3. An example of Big Five Personality Classification"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/ftp/arxiv/papers/2303/2303.12279.pdf)] <br />
+    Eason Chen
+    
+2. "AugGPT: Leveraging ChatGPT for Text Data Augmentation"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2302.13007)] <br />
+    Haixing Dai, Zhengliang Liu, Wenxiong Liao, Xiaoke Huang, Yihan Cao, Zihao Wu, Lin Zhao, Shaochen Xu, Wei Liu, Ninghao Liu, Sheng Li, Dajiang Zhu, Hongmin Cai, Lichao Sun, Quanzheng Li, Dinggang Shen, Tianming Liu, Xiang Li
+    
+
+## Hallucination in LLM
+
+1. "SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/pdf/2303.08896.pdf)] <br />
+    Potsawee Manakul, Adian Liusie, Mark J. F. Gales
+
+## In-Context Learning
+
+1. "Fairness-guided Few-shot Prompting for Large Language Models"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/pdf/2303.13217.pdf)] <br />
+    Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu
+
+2. "Larger language models do in-context learning differently"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/pdf/2303.03846.pdf)] <br />
+    Jerry Wei, Jason Wei, Yi Tay, Dustin Tran, Albert Webson, Yifeng Lu, Xinyun Chen, Hanxiao Liu, Da Huang, Denny Zhou, Tengyu Ma
+    
+3. "Automatic Chain of Thought Prompting in Large Language Models"
+    ICLR (2023).
+    [[paper](https://arxiv.org/pdf/2210.03493.pdf)] <br />
+    Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
