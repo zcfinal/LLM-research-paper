@@ -122,6 +122,11 @@ paper list about large language model (LLM)
     Arxiv (2023).
     [[paper](https://arxiv.org/abs/2302.13007)] <br />
     Haixing Dai, Zhengliang Liu, Wenxiong Liao, Xiaoke Huang, Yihan Cao, Zihao Wu, Lin Zhao, Shaochen Xu, Wei Liu, Ninghao Liu, Sheng Li, Dajiang Zhu, Hongmin Cai, Lichao Sun, Quanzheng Li, Dinggang Shen, Tianming Liu, Xiang Li
+
+3. "Reward Design with Language Models"
+    ICLR (2023).
+    [[paper](https://arxiv.org/pdf/2303.00001.pdf)] <br />
+    Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh
     
 
 ## Hallucination in LLM
@@ -131,6 +136,11 @@ paper list about large language model (LLM)
     [[paper](https://arxiv.org/pdf/2303.08896.pdf)] <br />
     Potsawee Manakul, Adian Liusie, Mark J. F. Gales
 
+2. "Reflexion: an autonomous agent with dynamic memory and self-reflection"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/pdf/2303.11366.pdf)] <br />
+    Noah Shinn, Beck Labash, Ashwin Gopinath
+    
 ## In-Context Learning
 
 1. "Fairness-guided Few-shot Prompting for Large Language Models"
