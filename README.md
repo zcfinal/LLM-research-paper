@@ -1,6 +1,13 @@
 # LLM-research-paper
 paper list about large language model (LLM)
 
+## LLM Survey
+
+1. "A Survey of Large Language Models"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2303.18223)] <br />
+    Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, Peiyu Liu, Jian-Yun Nie, Ji-Rong Wen
+
 ## LLM Evaluation
 
 1. "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?"
