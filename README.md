@@ -19,7 +19,12 @@ paper list about large language model (LLM)
     Arxiv (2023).
     [[paper](https://arxiv.org/abs/2302.04023)] <br />
     Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung
-    
+
+3. "We’re Afraid Language Models Aren’t Modeling Ambiguity"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/pdf/2304.14399.pdf)] <br />
+    Alisa Liu, Zhaofeng Wu, Julian Michael, Alane Suhr, Peter West, Alexander Koller, Swabha Swayamdipta, Noah A. Smith, Yejin Choi
+
 ## Efficient Tuning
 
 1. "VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks"
@@ -134,7 +139,11 @@ paper list about large language model (LLM)
     ICLR (2023).
     [[paper](https://arxiv.org/pdf/2303.00001.pdf)] <br />
     Minae Kwon, Sang Michael Xie, Kalesha Bullard, Dorsa Sadigh
-    
+
+4. "Is a prompt and a few samples all you need? Using GPT-4 for data augmentation in low-resource classification tasks"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2304.13861)] <br />
+    Anders Giovanni Møller, Jacob Aarup Dalsgaard, Arianna Pera, Luca Maria Aiello
 
 ## Hallucination in LLM
 
@@ -164,3 +173,4 @@ paper list about large language model (LLM)
     ICLR (2023).
     [[paper](https://arxiv.org/pdf/2210.03493.pdf)] <br />
     Zhuosheng Zhang, Aston Zhang, Mu Li, Alex Smola
+    
