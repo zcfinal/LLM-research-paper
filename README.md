@@ -122,6 +122,21 @@ paper list about large language model (LLM)
     [[paper](https://arxiv.org/abs/2303.08128)] <br />
     Dídac Surís, Sachit Menon, Carl Vondrick
 
+12. "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2304.10592)] <br />
+    Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li, Mohamed Elhoseiny
+    
+13. "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2305.06500)] <br />
+    Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung, Steven Hoi
+
+14. "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models"
+    ICML (2023).
+    [[paper](https://arxiv.org/abs/2301.12597)] <br />
+    Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
+
 
 ## LLM in Data Generation 
 
