@@ -1,6 +1,13 @@
 # LLM-research-paper
 paper list about large language model (LLM)
 
+## LLM training
+
+1. "LIMA: Less Is More for Alignment"
+    Arxiv (2023).
+    [[paper](http://export.arxiv.org/abs/2305.11206)] <br />
+    Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy
+
 ## LLM Survey
 
 1. "A Survey of Large Language Models"
@@ -136,6 +143,18 @@ paper list about large language model (LLM)
     ICML (2023).
     [[paper](https://arxiv.org/abs/2301.12597)] <br />
     Junnan Li, Dongxu Li, Silvio Savarese, Steven Hoi
+    
+15. “VideoChat: Chat-Centric Video Understanding”
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2305.06355)] <br />
+    KunChang Li, Yinan He, Yi Wang, Yizhuo Li, Wenhai Wang, Ping Luo, Yali Wang, Limin Wang, Yu Qiao
+    
+16. "Self-Chained Image-Language Model for Video Localization and Question Answering"
+    Arxiv (2023).
+    [[paper](https://arxiv.org/abs/2305.06988)] <br />
+    Shoubin Yu, Jaemin Cho, Prateek Yadav, Mohit Bansal
+
+
 
 
 ## LLM in Data Generation 
