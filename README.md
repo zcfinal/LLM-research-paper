@@ -154,7 +154,10 @@ paper list about large language model (LLM)
     [[paper](https://arxiv.org/abs/2305.06988)] <br />
     Shoubin Yu, Jaemin Cho, Prateek Yadav, Mohit Bansal
 
-
+17. "GPT4RoI: Instruction Tuning Large Language Model on Region-of-Interest"
+    Arxiv (2023).
+    [[Paper](https://arxiv.org/pdf/2307.03601.pdf)] <br />
+    Shilong Zhang, Peize Sun, Shoufa Chen, Min Xiao, Wenqi Shao, Wenwei Zhang, Kai Chen, Ping Luo
 
 
 ## LLM in Data Generation 
